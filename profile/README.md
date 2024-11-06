@@ -17,7 +17,7 @@ Explore our collection of plugins that integrate with popular DevOps tools:
 
 ## 🛠️ System Architecture
 Below is the system architecture, illustrating the development and operational environments.
-![ChainsoMen_Architecture](./profile/ChainsoMen_Architecture.png)
+![ChainsoMen_Architecture](./ChainsoMen_Architecture.png)
 
 **Right Side (Development Environment):**
 - The development process starts when a developer writes code.
@@ -33,7 +33,7 @@ We have visualized our system according to the CI/CD process, aligning with the 
 We’re excited to see how the community will utilize and expand these plugins.
 Stay tuned for more updates and new releases!
 
-![ChainsoMen_Architecture.png](./profile/ChainsoMen_DevOps.png)
+![ChainsoMen_Architecture.png](./ChainsoMen_DevOps.png)
 
 
 ## 🎬 Demo
