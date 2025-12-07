@@ -55,6 +55,6 @@ Did you know? Our entire development team is either currently studying or has gr
 |------|---------------------------|-----------------------------------|
 | 조원준  | https://github.com/jun6292 | Computer Science Engineering |
 | 김태욱  | https://github.com/ | Computer Science Engineering |
-| 강우빈  | https://github.com/ | Computer Science Engineering |
+| 강우빈  | https://github.com/Shortood | Computer Science Engineering |
 | 나찬진  | https://github.com/ckswls56 | Computer Science Engineering |
 
